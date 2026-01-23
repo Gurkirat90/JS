@@ -76,3 +76,4 @@ let y = false;
 console.log("Logical AND: ", x && y);   //false
 console.log("Logical OR: ", x || y);    //true
 console.log("Logical NOT: ", !x);       //false
+//rest is continued on Documentation2.js
